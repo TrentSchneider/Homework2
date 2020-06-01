@@ -1,3 +1,10 @@
 h1 {
 	font-family: "Times New Roman", Times, serif;
 }
+.cardStyle {
+	margin-left: 5%;
+	margin-top: 5%;
+}
+.backgroundColor {
+	background-color: rgb(228, 226, 224);
+}
