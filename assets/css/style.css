@@ -1,10 +1,15 @@
 .navh2 {
-	font-family: "Times New Roman", Times, serif;
 	color: white;
+}
+.titleFont {
+	font-family: "Times New Roman", Times, serif;
 }
 .cardStyle {
 	margin-left: 5%;
 	margin-top: 3%;
+}
+.portCardPlace {
+	margin-top: 10px;
 }
 /* background image from https://www.transparenttextures.com/stucco.html */
 body {
@@ -34,4 +39,8 @@ li a {
 .portTitle {
 	margin: 0;
 	padding: 2%;
+}
+.portPicMarg {
+	margin-top: 5%;
+	margin-bottom: 5%;
 }
