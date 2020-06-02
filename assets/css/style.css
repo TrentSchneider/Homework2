@@ -1,0 +1,21 @@
+h1 {
+	font-family: "Times New Roman", Times, serif;
+}
+.cardStyle {
+	margin-left: 5%;
+	margin-top: 3%;
+}
+/* background image from https://www.transparenttextures.com/stucco.html */
+.backgroundColor {
+	background-image: url(http://www.transparenttextures.com/patterns/stucco.png);
+	background-color: rgb(247, 247, 247);
+}
+.navBorder {
+	border-bottom: solid;
+	border-width: 3px;
+	border-color: lightgrey;
+}
+.navFormat {
+	width: 100%;
+	max-width: 980px;
+}
