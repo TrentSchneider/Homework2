@@ -1,16 +1,17 @@
-h1 {
+.navh2 {
 	font-family: "Times New Roman", Times, serif;
+	color: white;
 }
 .cardStyle {
 	margin-left: 5%;
 	margin-top: 3%;
 }
 /* background image from https://www.transparenttextures.com/stucco.html */
-.backgroundColor {
+body {
 	background-image: url(http://www.transparenttextures.com/patterns/stucco.png);
 	background-color: rgb(247, 247, 247);
 }
-.navBorder {
+.lowBorder {
 	border-bottom: solid;
 	border-width: 3px;
 	border-color: lightgrey;
@@ -18,4 +19,15 @@ h1 {
 .navFormat {
 	width: 100%;
 	max-width: 980px;
+}
+.brandMarg {
+	margin-left: 2.5%;
+}
+
+li a {
+	color: grey;
+}
+.navHeight {
+	padding-top: 0;
+	padding-bottom: 0;
 }
