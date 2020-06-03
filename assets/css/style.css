@@ -5,13 +5,9 @@
 	font-family: "Times New Roman", Times, serif;
 }
 .cardStyle {
-	ml-md 5%;
-	margin-right: 5%;
-	margin-top: 3%;
+	margin: 2%;
 }
-.portCardPlace {
-	margin-top: 10px;
-}
+
 /* background image from https://www.transparenttextures.com/stucco.html */
 body {
 	background-image: url(http://www.transparenttextures.com/patterns/stucco.png);
@@ -43,7 +39,6 @@ li a {
 }
 .portPicMarg {
 	margin-top: 2%;
-	margin-bottom: 2%;
 }
 .contactCardHead {
 	padding-left: 0;
