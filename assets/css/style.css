@@ -55,6 +55,6 @@ li a {
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-.wordImage {
-	background-image: url(assets/images/word.jpg);
+.portBox {
+	box-sizing: content-box;
 }
