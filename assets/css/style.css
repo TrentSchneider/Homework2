@@ -44,3 +44,17 @@ li a {
 	margin-top: 5%;
 	margin-bottom: 5%;
 }
+.contactCardHead {
+	padding-left: 0;
+	margin-bottom: 10px;
+}
+.image {
+	width: 500px;
+	height: 500px;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.wordImage {
+	background-image: url(assets/images/word.jpg);
+}
