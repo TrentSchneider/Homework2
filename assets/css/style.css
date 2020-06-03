@@ -5,7 +5,7 @@
 	font-family: "Times New Roman", Times, serif;
 }
 .cardStyle {
-	margin-left: 5%;
+	ml-md 5%;
 	margin-right: 5%;
 	margin-top: 3%;
 }
@@ -42,20 +42,19 @@ li a {
 	padding: 2%;
 }
 .portPicMarg {
-	margin-top: 5%;
-	margin-bottom: 5%;
+	margin-top: 2%;
+	margin-bottom: 2%;
 }
 .contactCardHead {
 	padding-left: 0;
 	margin-bottom: 10px;
 }
-.image {
-	width: 500px;
-	height: 500px;
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
+
 .portBox {
 	box-sizing: content-box;
+}
+.carousel-caption {
+	position: relative;
+	left: 0;
+	bottom: 20%;
 }
