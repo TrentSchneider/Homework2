@@ -58,3 +58,7 @@ li a {
 	border-width: 10px;
 	border-color: teal;
 }
+.card-img-overlay {
+	padding-left: 15px;
+	padding-right: 15px;
+}
