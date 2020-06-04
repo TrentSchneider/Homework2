@@ -53,3 +53,8 @@ li a {
 	left: 0;
 	bottom: 60%;
 }
+.borderFoot {
+	border-top: solid;
+	border-width: 10px;
+	border-color: teal;
+}
